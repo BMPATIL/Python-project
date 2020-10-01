@@ -1,2 +1,2 @@
-print('Hello World!')
-print('Welcome to your codeing world')
+print('Hello World!') #This prints Hello World!
+print('Hi');
